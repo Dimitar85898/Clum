@@ -21,7 +21,7 @@
     <ClInclude Include="src\Clum\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Clum.h">
+    <ClInclude Include="src\clum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Clum\EntryPoint.h">

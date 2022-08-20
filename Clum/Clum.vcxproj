@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Clum.h" />
+    <ClInclude Include="src\clum.h" />
     <ClInclude Include="src\Clum\Application.h" />
     <ClInclude Include="src\Clum\Core.h" />
     <ClInclude Include="src\Clum\EntryPoint.h" />
